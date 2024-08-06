@@ -7,4 +7,4 @@ Considered features from the dataset for price prediction
 * GrLivArea: Square footage of the house
 * BedroomAbvGr: Number of bedrooms
 * FullBath: Number of bathrooms
-* SalePrice: Sale price of the house
+* SalePrice: Sale price of the hous
